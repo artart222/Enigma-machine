@@ -1,7 +1,8 @@
 # Enigma-machine
+
 This is an enigma-machine written in rust
 
-### ***For learning how enigma machine works you can use these materials:***
+### **_For learning how enigma machine works you can use these materials:_**
 
 [How did the Enigma Machine work: Youtube-Jared Owen](https://www.youtube.com/watch?v=ybkkiGtJmkM&t=822s)
 
@@ -9,7 +10,7 @@ This is an enigma-machine written in rust
 
 [How rotors work: WikiPedia](https://en.wikipedia.org/wiki/Enigma_rotor_details)
 
-[Reflector: WikiPedia](https://en.wikipedia.org/wiki/Reflector_(cipher_machine))
+[Reflector: WikiPedia](<https://en.wikipedia.org/wiki/Reflector_(cipher_machine)>)
 
 [Technical Details of the Enigma Machine: Cipher machines and cryptology](https://www.ciphermachinesandcryptology.com/en/enigmatech.htm)
 
